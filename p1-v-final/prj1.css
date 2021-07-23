@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+html,body {
+  height: 100vh;
+}
+
+.maindiv {
+  height: 100vh;
+  font-family: 'Quicksand', sans-serif;
+  word-spacing: 4px;
+  letter-spacing: 1px;
+}
+
+.fixed-bg {
+  background-image: url('background.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  width: 100%;
+  color: white;
+  text-align: center;
+  display: table;
+}
+
+.fixed-bg h1 {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.scroll-bg {
+  background-color: rgb(41, 37, 37);
+  padding: 10px 70px;
+  color: rgb(117, 106, 106);
+}
+
+.hideShow {
+  display: none;
+}
+
+.clicked {
+  border: 2px dotted gold;
+  padding: 10px;
+}
