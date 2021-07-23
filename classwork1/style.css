@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+html,body {
+  height: 100%;
+}
+
+.maindiv {
+  height: 100%;
+  font-family: 'Quicksand', sans-serif;
+  word-spacing: 4px;
+  letter-spacing: 1px;
+}
+
+.fixed-bg {
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+  width: 100%;
+  color: white;
+  text-align: center;
+  display: table;
+}
+
+.fixed-bg h1 {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.scroll-bg {
+  background-color: rgb(41, 37, 37);
+  padding: 10px 70px;
+  color: rgb(117, 106, 106);
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+.imgtag {
+  border: 15px solid blue;
+}
+
+.bg-1 {
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/4/41/Sunflower_from_Silesia2.jpg');
+}
+
+.bg-2 {
+  background-image: url('https://www.techrepublic.com/a/hub/i/r/2021/02/17/3c192f18-47eb-428a-b64f-ba57fcd3c36a/resize/770x/f6331a1067a7b7fa04ef225a6493d63e/programming-coding.jpg');
+}
+
+.bg-3 {
+  background-image: url('http://codeskulptor-demos.commondatastorage.googleapis.com/GalaxyInvaders/back05.jpg');
+}
