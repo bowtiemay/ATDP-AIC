@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+* {
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: 'Quicksand', sans-serif;
+  color: white;
+  margin: 15px;
+}
