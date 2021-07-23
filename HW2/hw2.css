@@ -1,0 +1,8 @@
+td.hotorfire {
+  color: red;
+  border: 5px solid red;
+}
+
+tr, td, table {
+  border: 5px solid purple;
+}
