@@ -1,0 +1,7 @@
+<?php
+  function printHeading() {
+    echo "<h1>What Phoebe Bridgers Song Are You?</h1><img src=\"logo.png\" width = 100>";
+    echo "<h4>This quiz is provided by ATDP Corp. Please answer all questions honestly.</h4>";
+    echo "<br>";
+  }
+ ?>
