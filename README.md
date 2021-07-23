@@ -1,2 +1,2 @@
 # ATDP-AIC
-atdp web development course, summer 2021 
+atdp web development, summer 2021 
